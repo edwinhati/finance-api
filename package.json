@@ -1,0 +1,27 @@
+{
+  "name": "personal-finance-api",
+  "version": "1.0.0",
+  "description": "API utk keperluan keuangan pribadi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinhati/finance-api.git"
+  },
+  "keywords": [
+    "Stock",
+    "Mutual",
+    "Funds"
+  ],
+  "author": "Edwin Hati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinhati/finance-api/issues"
+  },
+  "homepage": "https://github.com/edwinhati/finance-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
